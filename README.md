@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://github.com/Warrieuse/Warrieuse/blob/main/img/pissenlit.jpg)
+![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/pissenlit.jpg)
 
 <!--
 **Warrieuse/Warrieuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
