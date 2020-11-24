@@ -1,4 +1,5 @@
 ![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/cover.png)
+Mon linkedIn : (https://www.linkedin.com/in/marine-laporte-warrieuse/)
 
 <!--
 **Warrieuse/Warrieuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
