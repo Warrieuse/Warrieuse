@@ -1,9 +1,8 @@
-### Hi there 👋
-![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/pissenlit.jpg)
+![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/Marine%20LAPORTE.png)
 
 <!--
 **Warrieuse/Warrieuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
