@@ -1,4 +1,4 @@
-![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/Marine%20LAPORTE.png)
+![Cover](https://github.com/Warrieuse/Warrieuse/blob/main/img/cover.png)
 
 <!--
 **Warrieuse/Warrieuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
